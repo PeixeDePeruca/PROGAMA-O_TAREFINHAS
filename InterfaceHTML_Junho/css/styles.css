@@ -1,7 +1,7 @@
 /* commenttttt */
 .container {
     color: #ff1c4c;
-    font-family: monospace;
+    font-family:monospace;
     font-weight: bold;
     background-color: #30243c00;
     border: 0.1rem rgba(0, 0, 0, 0) solid;
@@ -49,7 +49,7 @@ input {
 p {
     font-size: 35px;
 }
-/* esse é o data de nascimento */
+/* esse era o data de nascimento */
 
 .ImagemFundo {
     background-image: url(OperaGX.png);
@@ -80,12 +80,16 @@ p {
     margin: 0 10px;
     padding: 10px 20px;
     font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #fff;
     background-color: #ff1c4c;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    text-decoration: none;
 }
+
+
 
 .top-button:hover {
     background-color: #e51440;
