@@ -110,7 +110,7 @@
                     round++;
                     updateInfos();
                 } else {
-                    alert('Acabaram as questões');
+                    alert('Acabaram as questões! Parabéns :D');
                     window.location.replace('../html/index.html');
                 }
             } else {
@@ -119,7 +119,7 @@
         }
 
         function timeOut() {
-            alert('O tempo acabou.');
+            alert('O tempo acabou! 😨');
             window.location.replace('../html/index.html');
         }
 
